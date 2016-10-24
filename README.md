@@ -7,3 +7,6 @@ rápida, simples e acessível utilizando ESP8266.
 
 Apresentado na Intercon 2016
 http://intercon2016.imasters.com.br/
+
+Versão semi-editável dos slides:
+https://www.canva.com/design/DACB5syZYyg/view
